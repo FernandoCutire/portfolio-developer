@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'E-commerce',
     description:
-      'Using core backend technologies we build a complete ecommerce full stack tour site with integrations with stripe. ',
+      'Using core backend technologies I build a complete ecommerce full stack tour site with integrations with stripe. ',
     image: '/images/natours-sc.png',
     tags: ['Mongo', 'Express', 'JS', 'Node', 'Stripe'],
     source: 'https://github.com/FernandoCutire/Natours-Full',
@@ -32,7 +32,7 @@ export const projects = [
   {
     title: 'Data Analysis Page',
     description:
-      'Analyzing data in python and excel, i build this website for a client to display insights found in the data.',
+      'Analyzing data in python and excel, I build this website for a client to display insights found in the data.',
     image: '/images/ipandetec-sc.png',
     tags: ['HTML', 'CS', 'JS'],
     source: 'https://fervent-yonath-3811b0.netlify.app/',
@@ -53,7 +53,7 @@ export const projects = [
   {
     title: 'Food Web App',
     description:
-      'A delicious web app to search for pasta recipes and display ingredients and servings. T',
+      'A delicious web app to search for pasta recipes and display ingredients and servings.',
     image: '/images/forkify-sc.png',
     tags: ['Javascript', 'Webpack'],
     source: 'https://github.com/FernandoCutire/Forkify',
