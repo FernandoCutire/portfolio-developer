@@ -6,7 +6,7 @@ export const projects = [
     image: '/images/natours-sc.png',
     tags: ['Mongo', 'Express', 'JS', 'Node', 'Stripe'],
     source: 'https://github.com/FernandoCutire/Natours-Full',
-    visit: 'natours-cuti.herokuapp.com',
+    visit: 'https://natours-cuti.herokuapp.com/',
     id: 0,
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     image: '/images/portfolio-sc.png',
     tags: ['React', 'NextJs'],
     source: 'https://github.com/FernandoCutire',
-    visit: 'fernandocutire.com',
+    visit: 'https://fernandocutire.com/',
     id: 2,
   },
   {
